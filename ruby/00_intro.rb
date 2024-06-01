@@ -108,3 +108,20 @@ p arr
 p arr.sort
 
 # ruby -S gem list --local
+
+=begin
+
+Рекомендации молодому программисту:
+===================================
+
+1) USE Sublime text editor                     true
+2) USE Chrome browser + uBlock plugin          true
+3) USE Chrome browser + Dark Reader plugin     true
+4) USE Linux, delete Windows                   true
+5) CREATE real Name Surname account            true
+6) CREATE GitHub + upload all projects         true
+7) CREATE Likedin + learn linkedin course      t.ly/Soer9
+9) LEARN English + pass examen A1-A2-B1-B2     true
+0) LEARN English every day                     necessary
+
+=end
